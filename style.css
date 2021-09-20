@@ -1,0 +1,147 @@
+:root{
+  --dark-blue: #163561;
+  --blue: #99BAED;
+  --light-blue: #E5ECFE;
+  --yellow: #FBB400;
+  --white: #ffffff;
+  --gray: ##FAFBFF;
+
+}
+
+body {
+  font-family: 'Catamaran', sans-serif;
+  color: var(--dark-blue);
+}
+
+h1{
+  font-size:
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+a {
+  font-size: 20px;
+}
+
+p{
+  font-size: 18px;
+}
+
+
+.c-blue{
+  color: var(--blue);
+}
+
+.c-yellow{
+  color: var(--yellow);
+}
+
+.max-w-1200{
+  max-width: 1200px;
+}
+
+.max-w-800 {
+  max-width: 800px;
+}
+
+.max-w-400 {
+  max-width: 400px;
+}
+
+.max-w-300 {
+  max-width: 300px;
+}
+
+.max-w-280{
+  max-width: 280px;
+}
+
+.max-w-25{
+  max-width: 25px;
+}
+
+.m-0a{
+  margin: 0 auto;
+}
+
+.m-15{
+  margin: 15px 0px;
+}
+
+.m-50{
+  margin: 50px 0px;
+}
+
+.p{
+  padding: 0px 15px;
+}
+
+.p-15{
+  padding: 15px;
+}
+
+.gap-15{
+  gap: 15px;
+}
+
+.gap-25{
+  gap:25px;
+}
+
+.gap-35{
+  gap:25px;
+}
+
+.ai-c{
+  align-items: center;
+}
+
+.ta-c{
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+}
+
+.ac-c{
+  align-content: center;
+}
+
+.jc-sb{
+  justify-content: space-between;
+}
+
+.jc-se{
+  justify-content: space-evenly;
+}
+
+.jc-c{
+  justify-content: center;
+}
+
+.btn-blue{
+  width: 180px;
+  height: 70px;
+  background-color: var(--blue);
+  border-radius: 20px;
+  color: var(--white);
+  border:none;
+  font-size: 20px;
+}
+
+.section-block{
+  background-color: var(--gray);
+  border-radius: 15px;
+  border: 1px solid var(--blue);
+}
